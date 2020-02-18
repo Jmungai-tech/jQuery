@@ -1,0 +1,13 @@
+img {
+    display:none;
+}
+.walrus-showing{
+    display:none;
+}
+.clickable {
+    cursor:pointer;
+    color: burlywood;
+}
+.clickable:hover{
+    text-decoration: underline;
+}
